@@ -1,0 +1,48 @@
+{
+  "_from": "https://www.atom.io/api/packages/bumblebee-syntax/versions/1.0.0/tarball",
+  "_id": "bumblebee-syntax@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-l/iROf50+4jONIUvzTEfrzAVG3jkJNvHJfBD5MdZKuZfb26rKIt39RiRBTo/oSHkGIIYwYdr9xU5B7Ib13MGUw==",
+  "_location": "/bumblebee-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/bumblebee-syntax/versions/1.0.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/bumblebee-syntax/versions/1.0.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/bumblebee-syntax/versions/1.0.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/bumblebee-syntax/versions/1.0.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/bumblebee-syntax/versions/1.0.0/tarball",
+  "_shasum": "6bb8695a634744a19e0e979b347c456a07d0d853",
+  "_spec": "https://www.atom.io/api/packages/bumblebee-syntax/versions/1.0.0/tarball",
+  "_where": "/private/var/folders/x9/lh7prm9n08x541bc45bfclhm0000gn/T/apm-install-dir-20201020-9784-8xl5r0.myn14",
+  "bugs": {
+    "url": "https://github.com/nicqrocks/bumblebee-syntax/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Dark theme primarily using the colors yellow and black.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/nicqrocks/bumblebee-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dark",
+    "yellow",
+    "black"
+  ],
+  "license": "MIT",
+  "name": "bumblebee-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicqrocks/bumblebee-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "1.0.0"
+}

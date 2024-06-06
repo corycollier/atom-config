@@ -1,0 +1,48 @@
+{
+  "_from": "https://www.atom.io/api/packages/flat-yellow-ui/versions/0.1.0/tarball",
+  "_id": "flat-yellow-ui@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-VTw7+x/EktOeZEsZ90Ydix15RGFb2M++q6i3vPtkV/MNaRkpZIQCPngRV1Y1a4prPZ1+0prCFNVbyiZNU6aydA==",
+  "_location": "/flat-yellow-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/flat-yellow-ui/versions/0.1.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/flat-yellow-ui/versions/0.1.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/flat-yellow-ui/versions/0.1.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/flat-yellow-ui/versions/0.1.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/flat-yellow-ui/versions/0.1.0/tarball",
+  "_shasum": "8b45def2b0d80422a862117db7760b1b9b08bddc",
+  "_spec": "https://www.atom.io/api/packages/flat-yellow-ui/versions/0.1.0/tarball",
+  "_where": "/private/var/folders/98/brkwxk657ydffcf1qbqhlxrc0000gn/T/apm-install-dir-20211024-49460-1qhkzph.46zti",
+  "bugs": {
+    "url": "https://github.com/jojo36/flat-yellow-ui/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A flat yellow theme for atom",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/jojo36/flat-yellow-ui#readme",
+  "keywords": [
+    "ui",
+    "theme",
+    "flat",
+    "design",
+    "yellow"
+  ],
+  "license": "MIT",
+  "name": "flat-yellow-ui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojo36/flat-yellow-ui.git"
+  },
+  "theme": "ui",
+  "version": "0.1.0"
+}

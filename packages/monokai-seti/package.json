@@ -1,0 +1,42 @@
+{
+  "_from": "https://www.atom.io/api/packages/monokai-seti/versions/0.9.0/tarball",
+  "_id": "monokai-seti@0.9.0",
+  "_inBundle": false,
+  "_integrity": "sha512-N97azwz3EmLJU1xryOm2sIOA7pN00V+2Nc3Yhi0xUSNueLnv0Ct0k7I8jvwcVyHlCVqd25YF5yquSoPlA1P/VA==",
+  "_location": "/monokai-seti",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/monokai-seti/versions/0.9.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/monokai-seti/versions/0.9.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/monokai-seti/versions/0.9.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/monokai-seti/versions/0.9.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/monokai-seti/versions/0.9.0/tarball",
+  "_shasum": "8f03a87e9bcbcff77c8610a102c98f8e0147a44b",
+  "_spec": "https://www.atom.io/api/packages/monokai-seti/versions/0.9.0/tarball",
+  "_where": "/private/var/folders/x9/lh7prm9n08x541bc45bfclhm0000gn/T/apm-install-dir-2021710-91645-iq47ws.8az9",
+  "bugs": {
+    "url": "https://github.com/schmittyjd/monokai-seti/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A monokai theme for the seti ui",
+  "engines": {
+    "atom": ">=1.13.0"
+  },
+  "homepage": "https://github.com/schmittyjd/monokai-seti#readme",
+  "license": "MIT",
+  "name": "monokai-seti",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schmittyjd/monokai-seti.git"
+  },
+  "theme": "syntax",
+  "version": "0.9.0"
+}

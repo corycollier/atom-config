@@ -1,0 +1,45 @@
+{
+  "_from": "https://www.atom.io/api/packages/mechanicus-syntax/versions/4.1.4/tarball",
+  "_id": "mechanicus-syntax@4.1.4",
+  "_inBundle": false,
+  "_integrity": "sha512-ht9G+5Eh80gQtW75pctKlboVhyqT6o0MXFpnQcHVyOPi/d56L4zyxpONR2pIxgu68gAqm6QCnlxzZhyRzMlpPA==",
+  "_location": "/mechanicus-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/mechanicus-syntax/versions/4.1.4/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/mechanicus-syntax/versions/4.1.4/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/mechanicus-syntax/versions/4.1.4/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/mechanicus-syntax/versions/4.1.4/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/mechanicus-syntax/versions/4.1.4/tarball",
+  "_shasum": "38ecc8e1c8df0bb74b1bad988f98cdd25844b3cf",
+  "_spec": "https://www.atom.io/api/packages/mechanicus-syntax/versions/4.1.4/tarball",
+  "_where": "/private/var/folders/98/brkwxk657ydffcf1qbqhlxrc0000gn/T/apm-install-dir-2022027-98593-1tglsyp.p8g6",
+  "bugs": {
+    "url": "https://github.com/Reaper9806/mechanicus-syntax/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A camouflage looking theme, because code is never quite the way it seems.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/Reaper9806/mechanicus-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "license": "GPL-3.0",
+  "name": "mechanicus-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reaper9806/mechanicus-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "4.1.4"
+}

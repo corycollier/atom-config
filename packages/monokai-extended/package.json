@@ -1,0 +1,42 @@
+{
+  "_from": "https://www.atom.io/api/packages/monokai-extended/versions/0.3.0/tarball",
+  "_id": "monokai-extended@0.3.0",
+  "_inBundle": false,
+  "_integrity": "sha512-69ERK6o/oF5iXx582NGqQnPzWdnlsdCFt982KlgTeIx/lbsltPzSQGM/7EhQZ0MVOl4APE/cbwEDA2OT6hLi8w==",
+  "_location": "/monokai-extended",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/monokai-extended/versions/0.3.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/monokai-extended/versions/0.3.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/monokai-extended/versions/0.3.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/monokai-extended/versions/0.3.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/monokai-extended/versions/0.3.0/tarball",
+  "_shasum": "03c9fa5b43da6056c792cbd385839fa13d8c9507",
+  "_spec": "https://www.atom.io/api/packages/monokai-extended/versions/0.3.0/tarball",
+  "_where": "/private/var/folders/98/brkwxk657ydffcf1qbqhlxrc0000gn/T/apm-install-dir-20211024-48124-1cuihfs.8bef",
+  "bugs": {
+    "url": "https://github.com/danielgtaylor/atom-monokai-extended/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "An extended Monokai syntax theme",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/danielgtaylor/atom-monokai-extended#readme",
+  "license": "MIT",
+  "name": "monokai-extended",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielgtaylor/atom-monokai-extended.git"
+  },
+  "theme": "syntax",
+  "version": "0.3.0"
+}

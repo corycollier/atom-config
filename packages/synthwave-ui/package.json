@@ -1,0 +1,45 @@
+{
+  "_from": "https://www.atom.io/api/packages/synthwave-ui/versions/0.2.0/tarball",
+  "_id": "synthwave-ui@0.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-8yOQlzSK2YYEqC7Tbq1OvPICNVMmVfXsVosxkOV4DDvim0ExkO0KJft2Z8nQtaYV+5mk1FyIAS3jRj6ozkxLoA==",
+  "_location": "/synthwave-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/synthwave-ui/versions/0.2.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/synthwave-ui/versions/0.2.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/synthwave-ui/versions/0.2.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/synthwave-ui/versions/0.2.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/synthwave-ui/versions/0.2.0/tarball",
+  "_shasum": "342b07a77620fb078ca4bd7697313314bad052cc",
+  "_spec": "https://www.atom.io/api/packages/synthwave-ui/versions/0.2.0/tarball",
+  "_where": "/private/var/folders/98/brkwxk657ydffcf1qbqhlxrc0000gn/T/apm-install-dir-20211024-48865-1r3d5ep.boh7f",
+  "bugs": {
+    "url": "https://github.com/LucasLennon/synthwave-ui/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Synthwave theme, still on progress",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/LucasLennon/synthwave-ui#readme",
+  "keywords": [
+    "ui",
+    "theme"
+  ],
+  "license": "MIT",
+  "name": "synthwave-ui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasLennon/synthwave-ui.git"
+  },
+  "theme": "ui",
+  "version": "0.2.0"
+}

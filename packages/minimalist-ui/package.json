@@ -1,0 +1,45 @@
+{
+  "_from": "https://www.atom.io/api/packages/minimalist-ui/versions/0.2.0/tarball",
+  "_id": "minimalist-ui@0.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-aN+L7BcRKi/RyUV6aCvnifmDaC1frZ0wu0MyeQAh5ssztQF/HJ1gG+FaS45zT06kjMV+cUDu1AREa1gVqi49UA==",
+  "_location": "/minimalist-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/minimalist-ui/versions/0.2.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/minimalist-ui/versions/0.2.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/minimalist-ui/versions/0.2.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/minimalist-ui/versions/0.2.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/minimalist-ui/versions/0.2.0/tarball",
+  "_shasum": "1a4ea4a7906df874cba8e16e4f286fd5319ae2fb",
+  "_spec": "https://www.atom.io/api/packages/minimalist-ui/versions/0.2.0/tarball",
+  "_where": "/private/var/folders/x9/lh7prm9n08x541bc45bfclhm0000gn/T/apm-install-dir-2021710-82594-1066xie.zyjg",
+  "bugs": {
+    "url": "https://github.com/akash-bhardwaj/minimalist/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Minimal UI Theme",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/akash-bhardwaj/minimalist#readme",
+  "keywords": [
+    "ui",
+    "theme"
+  ],
+  "license": "MIT",
+  "name": "minimalist-ui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash-bhardwaj/minimalist.git"
+  },
+  "theme": "ui",
+  "version": "0.2.0"
+}

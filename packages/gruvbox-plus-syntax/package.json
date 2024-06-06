@@ -1,0 +1,56 @@
+{
+  "_from": "https://www.atom.io/api/packages/gruvbox-plus-syntax/versions/1.3.1/tarball",
+  "_id": "gruvbox-plus-syntax@1.3.1",
+  "_inBundle": false,
+  "_integrity": "sha512-3GVenjs92auCQiynz/lKeHDKqNdvzEu36LPH0CIDRxVGTZ00IVVWNIuNAR/ngZ+2CS8gAjDzF2CSBNe1E7zNVA==",
+  "_location": "/gruvbox-plus-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/gruvbox-plus-syntax/versions/1.3.1/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/gruvbox-plus-syntax/versions/1.3.1/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/gruvbox-plus-syntax/versions/1.3.1/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/gruvbox-plus-syntax/versions/1.3.1/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/gruvbox-plus-syntax/versions/1.3.1/tarball",
+  "_shasum": "b2cf20cb5a30e5c5fb85778994f829d7dec65d6c",
+  "_spec": "https://www.atom.io/api/packages/gruvbox-plus-syntax/versions/1.3.1/tarball",
+  "_where": "/private/var/folders/98/brkwxk657ydffcf1qbqhlxrc0000gn/T/apm-install-dir-20211024-53579-14avmwv.khej",
+  "bugs": {
+    "url": "https://github.com/Briles/gruvbox-atom/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "atom-space-pen-views": "^2.2.0"
+  },
+  "deprecated": false,
+  "description": "Syntax themes with pastel 'retro groove' colors, dark/light mode switching, & contrast alternatives",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/Briles/gruvbox-atom#readme",
+  "keywords": [
+    "gruvbox",
+    "dark",
+    "light",
+    "medium",
+    "soft",
+    "hard",
+    "vim",
+    "retro",
+    "groove"
+  ],
+  "license": "MIT",
+  "main": "./lib/gruvbox",
+  "name": "gruvbox-plus-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Briles/gruvbox-atom.git"
+  },
+  "theme": "syntax",
+  "version": "1.3.1"
+}

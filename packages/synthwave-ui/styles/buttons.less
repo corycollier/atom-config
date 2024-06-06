@@ -1,0 +1,73 @@
+
+// Buttons
+// -------------------
+
+// Overrides: atom/atom/static/buttons.less
+
+
+.btn {
+  color: lighten(@text-color, 6%);
+  background-color: darken(@text-color, 30%);
+  box-shadow: 0 0 10px @text-color;
+
+  &:hover,
+  &:focus {
+    color: @text-color-highlight;
+    background-color: darken(@text-color-highlight, 20%);
+    box-shadow: 0 0 10px @text-color-highlight;
+  }
+  &:active {
+    color: lighter(@text-color-selected, 66%);
+    background-color: darken(@text-color-selected, 30%);
+    box-shadow: 0 0 10px @text-color-selected;
+  }
+  &.selected {
+    color: @text-color-selected;
+    background-color: darken(@text-color-selected, 30%);
+    box-shadow: 0 0 10px @text-color-selected;
+    &:hover{
+      color: @text-color-highlight;
+      background-color: darken(@text-color-highlight, 20%);
+      box-shadow: 0 0 10px @text-color-highlight;
+    }
+  }
+  &:focus,
+  &:focus:active {
+    outline: none;
+  }
+}
+
+
+// Colored buttons -----------------------
+
+.btn.btn-primary { .btn-color(@background-color-info); }
+.btn.btn-info    { .btn-color(@background-color-info); }
+.btn.btn-success { .btn-color(@background-color-success); }
+.btn.btn-warning { .btn-color(@background-color-warning); }
+.btn.btn-error   { .btn-color(@background-color-error); }
+
+.btn-color(@bg) {
+  color: @text-color-selected;
+  background-color: @bg;
+  &:hover,
+  &:focus {
+    background-color: lighten(@bg, 4%);
+  }
+  &:active {
+    background-color: darken(@bg, 4%);
+  }
+  &.selected {
+    background-color: lighten(@bg, 4%);
+  }
+  &.selected:focus,
+  &.selected:hover {
+    background-color: lighten(@bg, 8%);
+  }
+}
+
+
+// Button Group -----------------------
+
+.btn-group > .btn {
+  border-color: hsla(0,0%,0%,.2);
+}

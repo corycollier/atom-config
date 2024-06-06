@@ -1,0 +1,46 @@
+{
+  "_from": "https://www.atom.io/api/packages/simple-ui/versions/0.1.0/tarball",
+  "_id": "simple-ui@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-uz76ks66CydPPLV3dTupXqqCbxwS/VxB/hIO/hgYVkmhB0nuME/v6yiehXlDCDgcB0M/zR7n3wKPqZlF6oAuhg==",
+  "_location": "/simple-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/simple-ui/versions/0.1.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/simple-ui/versions/0.1.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/simple-ui/versions/0.1.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/simple-ui/versions/0.1.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/simple-ui/versions/0.1.0/tarball",
+  "_shasum": "e0a0a9994a36ab086428085eef64291877627724",
+  "_spec": "https://www.atom.io/api/packages/simple-ui/versions/0.1.0/tarball",
+  "_where": "/private/var/folders/x9/lh7prm9n08x541bc45bfclhm0000gn/T/apm-install-dir-20201020-9895-k76fc1.7toa",
+  "bugs": {
+    "url": "https://github.com/justin-segler/simple-ui/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A simple UI theme.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/justin-segler/simple-ui#readme",
+  "keywords": [
+    "ui",
+    "theme",
+    "simple"
+  ],
+  "license": "MIT",
+  "name": "simple-ui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justin-segler/simple-ui.git"
+  },
+  "theme": "ui",
+  "version": "0.1.0"
+}

@@ -1,0 +1,108 @@
+{
+  "_from": "https://www.atom.io/api/packages/solarized-one-light-ui/versions/1.12.5/tarball",
+  "_id": "solarized-one-light-ui@1.12.5",
+  "_inBundle": false,
+  "_integrity": "sha512-s0exjdukxe/zaymTn8+iz0nAnlWINrZAjLUcxNQdN5DQwSRlN3CtIj4Lqusq9oLPBMImPbjApTta6Xj0smh66w==",
+  "_location": "/solarized-one-light-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/solarized-one-light-ui/versions/1.12.5/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/solarized-one-light-ui/versions/1.12.5/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/solarized-one-light-ui/versions/1.12.5/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/solarized-one-light-ui/versions/1.12.5/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/solarized-one-light-ui/versions/1.12.5/tarball",
+  "_shasum": "0a0bb00dcc9e97c3d533658a1ccc3f2baa8d101b",
+  "_spec": "https://www.atom.io/api/packages/solarized-one-light-ui/versions/1.12.5/tarball",
+  "_where": "/private/var/folders/98/brkwxk657ydffcf1qbqhlxrc0000gn/T/apm-install-dir-20211024-53646-abzk7w.sjg7g",
+  "bugs": {
+    "url": "https://github.com/senki/solarized-one-light-ui/issues"
+  },
+  "bundleDependencies": false,
+  "configSchema": {
+    "fontSize": {
+      "title": "Font Size",
+      "description": "Change the font size for the UI.",
+      "type": "integer",
+      "default": 12,
+      "enum": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "order": 1
+    },
+    "tabSizing": {
+      "title": "Tab Sizing",
+      "description": "In Even mode all tabs will be the same size. Great for quickly closing many tabs. In Maximum mode the tabs will expand to take up the full width. In Minimum mode the tabs will only take as little space as needed and also show longer file names.",
+      "type": "string",
+      "default": "Even",
+      "enum": [
+        "Even",
+        "Maximum",
+        "Minimum"
+      ],
+      "order": 2
+    },
+    "tabCloseButton": {
+      "title": "Tab Close Button",
+      "description": "Choose the position of the close button shown in tabs.",
+      "type": "string",
+      "default": "Right",
+      "enum": [
+        "Left",
+        "Right"
+      ],
+      "order": 3
+    },
+    "hideDockButtons": {
+      "title": "Hide dock toggle buttons",
+      "description": "Note: When hiding the toggle buttons, opening a dock needs to be done by using the keyboard or other alternatives.",
+      "type": "boolean",
+      "default": "false",
+      "order": 4
+    },
+    "stickyHeaders": {
+      "title": "Make tree-view project headers sticky",
+      "type": "boolean",
+      "default": "false",
+      "order": 5
+    }
+  },
+  "deprecated": false,
+  "description": "Solarized One light UI Theme for Atom. A perfect companion for the Solarized Dark Syntax Theme.",
+  "devDependencies": {
+    "coffeelint": "^1.9.7"
+  },
+  "engines": {
+    "atom": ">0.40.0"
+  },
+  "homepage": "https://github.com/senki/solarized-one-light-ui#readme",
+  "keywords": [
+    "light",
+    "solarized",
+    "ui"
+  ],
+  "license": "MIT",
+  "main": "lib/main",
+  "name": "solarized-one-light-ui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senki/solarized-one-light-ui.git"
+  },
+  "theme": "ui",
+  "version": "1.12.5"
+}

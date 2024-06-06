@@ -1,0 +1,72 @@
+# Your snippets
+#
+# Atom snippets allow you to enter a simple prefix in the editor and hit tab to
+# expand the prefix into a larger code block with templated values.
+#
+# You can create a new snippet in this file by typing "snip" and then hitting
+# tab.
+#
+# An example CoffeeScript snippet to expand log to console.log:
+#
+# '.source.coffee':
+#   'Console log':
+#     'prefix': 'log'
+#     'body': 'console.log $1'
+#
+# Each scope (e.g. '.source.coffee' above) can only be declared once.
+#
+# This file uses CoffeeScript Object Notation (CSON).
+# If you are unfamiliar with CSON, you can read more about it in the
+# Atom Flight Manual:
+# http://flight-manual.atom.io/using-atom/sections/basic-customization/#_cson
+
+'.source.php':
+  'unit test':
+    'prefix': 'ut'
+    'body': """
+        /**
+         * @dataProvider provide${1/^(.+)/\\u$1/}
+         */
+        public function test${1/^(.+)/\\u$1/}($expected)
+        {
+            $subject = $this->getMockBuilder(${2:class}::class)
+                ->disableOriginalConstructor()
+                ->setMethods([${3}])
+                ->getMock();
+
+            ${0}
+
+            $result = $subject->${1:method}();
+            $this->assertEquals($expected, $result);
+        }
+
+        public function provide${1/^(.+)/\\u$1/}()
+        {
+            return [
+                'happy path' => [
+                    'expected' => 'expected value',
+                ]
+            ];
+        }
+    """
+
+  'Getter and Setter':
+    'prefix': 'getset'
+    'body': """
+        /**
+         * getter for the ${1} property
+         */
+        public function get${1/^(.+)/\\u$1/}(): ${2:string}
+        {
+            return $this->${1};
+        }
+
+        /**
+         * setter for the ${1} property
+         */
+        public function set${1/^(.+)/\\u$1/}(${2} $value): self
+        {
+            $this->${1} = $value;
+            return $this;
+        }
+    """

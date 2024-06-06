@@ -1,0 +1,47 @@
+{
+  "_from": "https://www.atom.io/api/packages/monokai-airwave/versions/5.0.1/tarball",
+  "_id": "monokai-airwave@5.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-MjSjnttnDkd1+7XhCmZ3fuEipl3s7j4zb/zzl1gSz1M7unT1yktKzWt9dSreSTKbzu9q5wAipsrriPdtD0Tw/A==",
+  "_location": "/monokai-airwave",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/monokai-airwave/versions/5.0.1/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/monokai-airwave/versions/5.0.1/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/monokai-airwave/versions/5.0.1/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/monokai-airwave/versions/5.0.1/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/monokai-airwave/versions/5.0.1/tarball",
+  "_shasum": "438a481ccd3909fed8096391d7fb486160691f4c",
+  "_spec": "https://www.atom.io/api/packages/monokai-airwave/versions/5.0.1/tarball",
+  "_where": "/private/var/folders/98/brkwxk657ydffcf1qbqhlxrc0000gn/T/apm-install-dir-20211024-48840-yg1e2t.vc2c",
+  "bugs": {
+    "url": "https://github.com/airwave-development/atom-monokai-soda/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Converted from the original buymesoda theme using the TextMate Bundle Converter.",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  },
+  "homepage": "https://github.com/airwave-development/atom-monokai-soda#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "monokai soda",
+    "atom soda"
+  ],
+  "license": "MIT",
+  "name": "monokai-airwave",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airwave-development/atom-monokai-soda.git"
+  },
+  "theme": "syntax",
+  "version": "5.0.1"
+}

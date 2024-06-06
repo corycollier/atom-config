@@ -1,0 +1,45 @@
+{
+  "_from": "https://www.atom.io/api/packages/bloodshot-syntax/versions/0.0.2/tarball",
+  "_id": "bloodshot-syntax@0.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-vDZN2Ua9uP5j9jifVqWCAz3KKvbRz6ENwt4HvWfIRguZ+PTf5bt5Qk6gRXp5ovPTMYI8GTg0jhUHYlFNlTpSeA==",
+  "_location": "/bloodshot-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/bloodshot-syntax/versions/0.0.2/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/bloodshot-syntax/versions/0.0.2/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/bloodshot-syntax/versions/0.0.2/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/bloodshot-syntax/versions/0.0.2/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/bloodshot-syntax/versions/0.0.2/tarball",
+  "_shasum": "a5adc5694f69f76da26ae3f4cf935ba09f8b4f43",
+  "_spec": "https://www.atom.io/api/packages/bloodshot-syntax/versions/0.0.2/tarball",
+  "_where": "/private/var/folders/98/brkwxk657ydffcf1qbqhlxrc0000gn/T/apm-install-dir-20211024-49425-kkxtfe.n1ln",
+  "bugs": {
+    "url": "https://github.com/ibourgeois/bloodshot-syntax/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A red syntax theme for atom",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/ibourgeois/bloodshot-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "license": "MIT",
+  "name": "bloodshot-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibourgeois/bloodshot-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.0.2"
+}

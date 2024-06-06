@@ -1,0 +1,46 @@
+"*":
+  "atom-alignment":
+    addSpacePostfix: true
+  core:
+    customFileTypes:
+      "source.shell": [
+        "env"
+      ]
+    excludeVcsIgnoredPaths: false
+    projectHome: "/Users/cory/Repos"
+    restorePreviousWindowsOnStart: "no"
+    simpleFullScreenWindows: true
+    telemetryConsent: "no"
+    themes: [
+      "gruvbox-dark-ui"
+      "gruvbox-plus-syntax"
+    ]
+    titleBar: "custom-inset"
+  docblockr:
+    deep_indent: true
+    extra_tags_go_after: true
+    lower_case_primitives: true
+    short_primitives: true
+    spacer_between_sections: "true"
+  editor:
+    fontSize: 13
+    showIndentGuide: true
+    showInvisibles: true
+    softWrapAtPreferredLineLength: true
+    tabType: "soft"
+  "exception-reporting":
+    userId: "1132cc67-ca53-4ee3-94d9-7211c04ad36a"
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
+    showSunsettingOnStartup: false
+".js.source":
+  editor:
+    tabLength: 2
+".shell.source":
+  editor:
+    tabLength: 2
+".source.yaml":
+  editor:
+    tabLength: 2
